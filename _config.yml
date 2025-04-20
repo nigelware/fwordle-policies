@@ -1,5 +1,6 @@
 title: Fwordle Policies
 description: Official policies for the Fwordle iOS app
-baseurl: ""
-url: "https://nigelware.github.io/fwordle-policies"
+baseurl: "/fwordle-policies"
+url: "https://nigelware.github.io"
 markdown: kramdown
+permalink: pretty
