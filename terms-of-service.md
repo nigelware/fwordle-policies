@@ -1,3 +1,9 @@
+---
+layout: default
+title: Terms of Service
+permalink: /terms-of-service/
+---
+
 # Terms of Service for Fwordle
 
 Last updated: April 18, 2024
@@ -60,4 +66,4 @@ We may terminate or suspend your access to the App at any time, without notice, 
 ## 10. Contact Information
 
 For questions about these Terms, please contact us at:
-- Email: support@nigelware.com
+- Email: support@nigelware.com 
