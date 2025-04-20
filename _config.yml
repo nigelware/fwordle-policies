@@ -4,3 +4,6 @@ baseurl: "/fwordle-policies"
 url: "https://nigelware.github.io"
 markdown: kramdown
 permalink: pretty
+collections:
+  policies:
+    output: true
