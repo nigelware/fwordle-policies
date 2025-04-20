@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy Policy
+permalink: /privacy-policy/
+---
+
 # Privacy Policy for Fwordle
 
 Last updated: April 18, 2024
@@ -62,4 +68,4 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-- Email: support@nigelware.com
+- Email: support@nigelware.com 
